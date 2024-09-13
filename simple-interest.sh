@@ -3,7 +3,7 @@
 # annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 
-# Author: Your GitHub Username
+# Author: Sonny May
 
 # Input:
 # p = principal amount
